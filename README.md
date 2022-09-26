@@ -5,6 +5,8 @@
   - [Electronics Suppliers](#electronics-suppliers)
   - [Hardware Suppliers](#hardware-suppliers)
   - [Supply Chain Tools](#supply-chain-tools)
+- [Design](#design)
+  - [Test Fixtures](#test-fixtures)
 - [Learning Resources](#learning-resources)
   - [Electronics Tutorials](#electronics-tutorials)
 - [Documentation](#documenation)
@@ -19,6 +21,10 @@
 - [Ponoko](https://www.ponoko.com/) - Custom laser cut wood/plastic/metal
 ### Supply Chain Tools
 - [Octopart](https://octopart.com/) - Realtime component availability from manufacturers, suppliers, and brokers.
+
+## Design
+### Test Fixtures
+- [FixturFab](https://fixturfab.com/) - Custom PCBA test fixture design
 
 ## Learning Resources
 ### Electronics Tutorials
