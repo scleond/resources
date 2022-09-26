@@ -11,13 +11,14 @@
 
 ## Suppliers
 ### Electronics Suppliers
-- [Digikey](https://www.digikey.com/)
-- [Mouser](https://www.mouser.com/)
+- [Digikey](https://www.digikey.com/) - Various electronic components
+- [Mouser](https://www.mouser.com/) - Various electronic components
 ### Hardware Suppliers
-- [McMaster-Carr](https://www.mcmaster.com/)
-- [Misumi](https://us.misumi-ec.com/)
+- [McMaster-Carr](https://www.mcmaster.com/) - Various hardware/fasteners
+- [Misumi](https://us.misumi-ec.com/) - Various hardware/fasteners with good customization
+- [Ponoko](https://www.ponoko.com/) - Custom laser cut wood/plastic/metal
 ### Supply Chain Tools
-- [Octopart](https://octopart.com/)
+- [Octopart](https://octopart.com/) - Realtime component availability from manufacturers, suppliers, and brokers.
 
 ## Learning Resources
 ### Electronics Tutorials
