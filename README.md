@@ -15,6 +15,7 @@
 - [Mouser](https://www.mouser.com/)
 ### Hardware Suppliers
 - [McMaster-Carr](https://www.mcmaster.com/)
+- [Misumi](https://us.misumi-ec.com/)
 ### Supply Chain Tools
 - [Octopart](https://octopart.com/)
 
