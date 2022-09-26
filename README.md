@@ -1,14 +1,13 @@
 # Resources
 > A list of resources/links I've found 
 
-- [Suppliers] (#suppliers)
-  - [Electronics Suppliers] (#electronics-suppliers)
-  - [Hardware Suppliers] (#hardware-suppliers)
-  - [Supply Chain Tools] (#supply-chain-tools)
+- [Suppliers](#suppliers)
+  - [Electronics Suppliers](#electronics-suppliers)
+  - [Hardware Suppliers](#hardware-suppliers)
+  - [Supply Chain Tools](#supply-chain-tools)
 - [Learning Resources](#learning-resources)
   - [Electronics Tutorials](#electronics-tutorials)
-- [Documentation] (#documenation)
-
+- [Documentation](#documenation)
 
 ## Suppliers
 ### Electronics Suppliers
@@ -21,7 +20,7 @@
 
 ## Learning Resources
 ### Electronics Tutorials
-[Awesome Electronics](https://github.com/kitspace/awesome-electronics) - Links to various fantastic resources
+- [Awesome Electronics](https://github.com/kitspace/awesome-electronics) - Links to various fantastic resources
 
 ## Documentation
 - [Title Capitalization](https://capitalizemytitle.com/style/AP/) - Generate titles adhering to various style guides
