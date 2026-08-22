@@ -24,6 +24,8 @@
 - [Digikey](https://www.digikey.com/) - Various electronic components
 - [Mouser](https://www.mouser.com/) - Various electronic components
 - [LCSC](https://www.lcsc.com/) - Low-cost electronic components, pairs well with JLCPCB for assembly
+- [Adafruit](https://www.adafruit.com/) - Breakout boards and modules with excellent documentation
+- [SparkFun](https://www.sparkfun.com/) - Hobbyist-friendly dev boards, sensors, and tutorials
 ### Hardware Suppliers
 - [McMaster-Carr](https://www.mcmaster.com/) - Various hardware/fasteners
 - [Misumi](https://us.misumi-ec.com/) - Various hardware/fasteners with good customization
