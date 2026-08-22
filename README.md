@@ -42,6 +42,7 @@
 ### Electronics Tutorials
 - [Awesome Electronics](https://github.com/kitspace/awesome-electronics) - Links to various fantastic resources
 - [Contextual Electronics](https://contextualelectronics.com/) - Project-based PCB design course
+- [Robert Feranec](https://www.youtube.com/@RobertFeranec) - Practical high-speed PCB layout and design reviews
 
 ## Fabrication
 ### PCB Houses
@@ -52,6 +53,7 @@
 ### CAD / EDA
 - [KiCad](https://www.kicad.org/) - Open-source EDA suite for schematic capture and PCB layout
 - [FreeCAD](https://www.freecad.org/) - Open-source parametric 3D CAD modeler
+- [Onshape](https://www.onshape.com/) - Browser-based parametric CAD with a free public-document tier
 
 ## Component Search
 ### Datasheets / Symbols
