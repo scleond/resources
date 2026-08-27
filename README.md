@@ -54,6 +54,7 @@
 ## Tools
 ### CAD / EDA
 - [KiCad](https://www.kicad.org/) - Open-source EDA suite for schematic capture and PCB layout
+- [Konnect](https://github.com/mixelpixx/Konnect) - AI-assisted PCB design for KiCad 10. Native Rust plugin/MCP server exposing 214 schematic, layout, routing, and DRC tools to Claude
 - [FreeCAD](https://www.freecad.org/) - Open-source parametric 3D CAD modeler
 - [Onshape](https://www.onshape.com/) - Browser-based parametric CAD with a free public-document tier
 
