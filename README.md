@@ -61,6 +61,7 @@
 
 ### PCBA
 - [Copperhead](https://copperhead.sh/) - Open-source AI agent that designs, documents, and verifies PCBs by editing real KiCad files
+- [KiStack](https://github.com/scleond/kistack) - Human-written skills for KiCad schematic, PCB, BOM, footprint, symbol, Gerber, and export workflows
 
 ## Component Search
 ### Datasheets / Symbols
