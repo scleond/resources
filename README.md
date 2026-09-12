@@ -13,6 +13,7 @@
   - [PCB Houses](#pcb-houses)
 - [Tools](#tools)
   - [CAD / EDA](#cad--eda)
+  - [PCBA](#pcba)
 - [Component Search](#component-search)
   - [Datasheets / Symbols](#datasheets--symbols)
 - [Community](#community)
@@ -57,6 +58,9 @@
 - [Konnect](https://github.com/mixelpixx/Konnect) - AI-assisted PCB design for KiCad 10. Native Rust plugin/MCP server exposing 214 schematic, layout, routing, and DRC tools to Claude
 - [FreeCAD](https://www.freecad.org/) - Open-source parametric 3D CAD modeler
 - [Onshape](https://www.onshape.com/) - Browser-based parametric CAD with a free public-document tier
+
+### PCBA
+- [Copperhead](https://copperhead.sh/) - Open-source AI agent that designs, documents, and verifies PCBs by editing real KiCad files
 
 ## Component Search
 ### Datasheets / Symbols
